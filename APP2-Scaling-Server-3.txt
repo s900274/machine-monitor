@@ -1,0 +1,9 @@
+    inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host 
+    inet 10.206.78.10/23 brd 10.206.79.255 scope global br0
+    inet6 fe80::6d4:c4ff:fe57:e7ff/64 scope link 
+    inet 10.2.3.247/16 brd 10.2.255.255 scope global br2
+    inet6 2001:db8:1:2:ec81:977e:50e4:51fd/64 scope global temporary dynamic 
+    inet6 2001:db8:1:2:21b:21ff:fe63:cb8f/64 scope global dynamic mngtmpaddr 
+    inet6 fe80::21b:21ff:fe63:cb8f/64 scope link 
+    inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0

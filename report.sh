@@ -1,7 +1,7 @@
-sleep 30 #wait for interfaces up
+##sleep 30 #wait for interfaces up
 HOST=`hostname`
+cd $1
 git pull --no-edit
-cd /home/isaac/projects/mymachines
 echo "`ip addr | grep inet`" > $HOST.txt
 echo "`date`" >> $HOME/report.log
 git add .

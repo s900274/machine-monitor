@@ -3,7 +3,7 @@
     inet 10.206.79.54/23 brd 10.206.79.255 scope global dynamic enp3s0
     inet6 fe80::6a05:caff:fe4f:2961/64 scope link 
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
-    inet6 fe80::42:22ff:fec2:7217/64 scope link 
-    inet6 fe80::68ca:ecff:fe24:95c0/64 scope link 
-    inet6 fe80::c4de:4cff:fed2:4450/64 scope link tentative 
+    inet6 fe80::42:e5ff:febd:94bc/64 scope link tentative 
     inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
+    inet6 fe80::1cf0:82ff:fedf:f589/64 scope link tentative 
+    inet6 fe80::ac8a:28ff:fe03:e2f9/64 scope link tentative 

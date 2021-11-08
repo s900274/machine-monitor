@@ -2,5 +2,7 @@
     inet6 ::1/128 scope host 
     inet 10.206.79.8/23 brd 10.206.79.255 scope global dynamic enp3s0
     inet6 fe80::6a05:caff:fe42:254a/64 scope link 
+    inet 10.2.10.241/16 brd 10.2.255.255 scope global dynamic enp7s0
+    inet6 2001:db8:1:2:16dd:a9ff:fed3:ea15/64 scope global dynamic mngtmpaddr noprefixroute 
     inet6 fe80::16dd:a9ff:fed3:ea15/64 scope link 
     inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0

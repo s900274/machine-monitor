@@ -1,3 +1,5 @@
     inet 127.0.0.1/8 scope host lo
     inet6 ::1/128 scope host 
-    inet6 fe80::21b:21ff:fe63:cb8f/64 scope link 
+    inet6 fe80::6d4:c4ff:fe57:e7ff/64 scope link 
+    inet 10.206.78.187/23 brd 10.206.79.255 scope global br0
+    inet6 fe80::6d4:c4ff:fe57:e7ff/64 scope link 
